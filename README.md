@@ -6,4 +6,4 @@ A new Flutter project based in the Udemy Course https://www.udemy.com/course/flu
 
 Practice of course, is the basic example of a counter in Flutter but a little different
 
-![Counter Image](https://photos.app.goo.gl/gknVoBrod84VGuMH6)
+![Counter Image](https://ibb.co/92qJGQq)
